@@ -1,0 +1,6 @@
+C:\Users\Людмила\Desktop\project\GitProject\bin\Debug\GitProject.exe.config
+C:\Users\Людмила\Desktop\project\GitProject\bin\Debug\GitProject.exe
+C:\Users\Людмила\Desktop\project\GitProject\bin\Debug\GitProject.pdb
+C:\Users\Людмила\Desktop\project\GitProject\obj\Debug\GitProject.csprojAssemblyReference.cache
+C:\Users\Людмила\Desktop\project\GitProject\obj\Debug\GitProject.exe
+C:\Users\Людмила\Desktop\project\GitProject\obj\Debug\GitProject.pdb
